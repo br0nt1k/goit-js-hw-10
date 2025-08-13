@@ -1,0 +1,17 @@
+.snack-delay {
+    display: inline-grid;
+    justify-items: start;
+    margin-top: 10px;
+}
+
+.snack-state {
+    width: 174px;
+    margin: 0 auto;
+    padding: 0;
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+.snack-submit {
+    width: 174px;
+}
